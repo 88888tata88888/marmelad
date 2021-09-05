@@ -140,7 +140,7 @@ cursor: pointer;
 }
 .carta:hover {
 	background: #e74c8a;
-	-webkit-transform: scale(1.1);
+	-webkit-transform: scale(1.1); 
 	transition: 250ms;
 }
 .carta-text {
@@ -399,13 +399,18 @@ cursor: pointer;
 /*FOOTER*/
 .footer {
 	display: flex;
+	justify-content: space-between;
+	margin-left: 135px;
+	margin-right: 135px;
+	margin-top: 160px;
 }
 .logo-footer {
-
+margin-top: 20px;
 }
 .footer-text {
 	color: #919299;
 	font-size: 20px;
+	position: relative;
 }
 .footer-text2 {
 	color: #919299;
@@ -420,23 +425,39 @@ cursor: pointer;
 	color: #56597A;
 	font-size: 24px;
 	font-weight: 700;
+	margin-bottom: 45px;
+	position: relative;
 }
 .blog-text {
 	color: #919299;
 	font-size: 20px;
+	margin-bottom: 37px;
+	position: relative;
+}
+.blog-text3 {
+	color: #919299;
+	font-size: 20px;
+	font-weight: 700;
+	position: relative;
 }
 .blog {
 	
 }
-.logo-footer {
-	
-	}
-	.blog-logo {
-		font-size: 30px;
-		color: #56597A;
-	}
-	.logo-span {
-		font-size: 30px;
-		color: #F087B1;
-	}
+.blog-logo {
+	font-size: 30px;
+	color: #56597A;
+}
+.logo-span {
+	font-size: 30px;
+	color: #F087B1;
+}
+.footer-vector {
+
+}
+.footer-vector3 {
+margin-top: -270px;
+}
+.footer-vector2 {
+	margin-top: -600px;
+}
 /*END FOOTER*/
