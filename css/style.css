@@ -455,9 +455,25 @@ margin-top: 20px;
 
 }
 .footer-vector3 {
-margin-top: -270px;
+margin-top: -330px;
 }
 .footer-vector2 {
-	margin-top: -600px;
+	margin-top: -700px;
+}
+.social {
+	position: relative;
+	display: flex;
+	margin-left: -30px;
+	align-items: center;
+}
+.social-footer {
+	justify-content: center;
+}
+.social-icon_footer {
+	padding-left: 30px;
+	width: 20px;
+	height: 50px;
+	background: cornflowerblue;
+	border-radius: 50%;
 }
 /*END FOOTER*/
