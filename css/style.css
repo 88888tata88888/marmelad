@@ -15,11 +15,11 @@ body {
 }
 .Vector-1 {
 	position: absolute;
-	margin-left: 561px;
+	margin-left: 660px;
 }
 .Vector-2 {
 	position: absolute;
-	margin-left: 540px;
+	margin-left: 640px;
 }
 .components-nav {
 	display: flex;
@@ -213,11 +213,11 @@ cursor: pointer;
 	}
 .designer-vector2 {
 		margin-top: -70px;
-		margin-left: 1215px;
+		margin-left: 1315px;
 	}
 	.designer-vector3 {
 		position: absolute;
-		margin-left: 1166px;
+		margin-left: 1266px;
 		margin-top: -95px;
 	}
 /*End Design*/
@@ -455,7 +455,6 @@ margin-top: -330px;
 .footer-vector2 {
 	margin-top: -700px;
 }
-
 .social {
 	margin-top: -5px;
 	position: relative;
