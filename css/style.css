@@ -152,13 +152,16 @@ body {
 	margin-left: 20px;
 }
 .design-img {
-	display: none;
+	margin-top: 50px;
+	margin-left: 85px;
+	width: 150px;
+	height: 150px;
 }
 .design-h3 {
 	font-size: 15px;
 	font-weight: 500;
 	color: #F78CB6;
-	margin-top: 80px;
+	margin-top: 50px;
 }
 .design-h2 {
 	color: #56597A;
