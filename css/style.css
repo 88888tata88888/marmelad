@@ -314,46 +314,40 @@ body {
 
 /*BLOG*/
 .blog-div {
-	position: absolute;
-	margin-left: 30px;
+	margin-left: 20px;
 }
 .blog-div_text {
-	text-align: center;
-	margin-top: 173px;
+	margin-top: 50px;
 }
 .blog-h2 {
 	color: #56597A;
-	font-size: 52px;
+	font-size: 24px;
 	font-weight: 700;
 }
 .blog-text {
-	font-size: 20px;
+	font-size: 8px;
 	color: #919299;
-	margin-top: -25px;
+	margin-top: -15px;
 }
 .email-input {
-	width: 706px;
-	height: 82px;
-	border-radius: 4px;
-	font-size: 20px;
-	position: absolute;
+	width: 200px;
+	height: 50px;
+	border-radius: 2px;
+	font-size: 10px;
 	-webkit-box-shadow: 0 0 10px rgb(0, 0, 0, 0.20);
 	border: none;
 	padding-left: 15px;
 	color: #56597A;
 }
 .blog-form {
-	text-align: center;
-	position: absolute;
-	margin-left: 320px;
+	margin-left: 20px;
 }
 .email__button {
-position: absolute;
-font-size: 20px;
-margin-left: 525px;
+font-size: 15px;
+margin-left: 20px;
 margin-top: 15px;
-width: 178px;
-height: 54px;
+width: 120px;
+height: 35px;
 background: #F78CB6;
 color: #fff;
 border-radius: 4px;
@@ -371,7 +365,93 @@ cursor: pointer;
 	margin-top: -60px;
 }
 /*END BLOG*/
+/*FOOTER*/
+.footer {
+	display: none;
 }
+.logo-footer {
+margin-top: 20px;
+}
+.footer-text {
+	color: #919299;
+	font-size: 20px;
+	position: relative;
+}
+.footer-text2 {
+	color: #919299;
+	font-size: 20px;
+}
+.footer-text3 {
+	color: #919299;
+	font-weight: 700;
+	font-size: 15px;
+}
+.blog-text1 {
+	color: #56597A;
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 45px;
+	position: relative;
+}
+.blog-text {
+	color: #919299;
+	font-size: 8px;
+	margin-bottom: 37px;
+	position: relative;
+}
+.blog-text3 {
+	color: #919299;
+	font-size: 15px;
+	font-weight: 700;
+	position: relative;
+}
+.blog-logo {
+	font-size: 30px;
+	color: #56597A;
+	position: relative;
+}
+.logo-span {
+	font-size: 30px;
+	color: #F087B1;
+}
+.footer-vector3 {
+display: none;
+}
+.footer-vector2 {
+	display: none;
+}
+.social {
+	margin-top: -5px;
+	position: relative;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+	align-items: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	margin-left: -15px;
+}
+.social-footer {
+	justify-content: center;
+	padding-top: 8px;
+	fill: #A7A7A7;
+}
+.social-footer:hover {
+	fill: #F087B1;
+	transition: 250ms;
+}
+.social-icon_footer {
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border-radius: 50%;
+	text-align: center;
+	margin-left: 15px;
+	box-shadow: 1px 2px 2px 1px rgb(0, 0, 0, 0.1);
+}
+}
+/*END FOOTER*/
 
 
 @media screen and (min-width: 480px)  and (max-width: 767px){
