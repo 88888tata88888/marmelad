@@ -6,6 +6,7 @@ body {
 	margin: 0px;
 	width: 1440px;
 	font-family: var(--main-font-family);
+	overflow-x: hidden;
 }
 
 .link {
@@ -15,7 +16,7 @@ body {
 	list-style: none;
 }
 
-@media screen and (min-width: 320px){
+@media screen and (min-width: 320px)  and (max-width: 479px){
 	.Vector-1 {
 		display: none;
 	}
