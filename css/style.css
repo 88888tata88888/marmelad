@@ -812,7 +812,7 @@ cursor: pointer;
 	color: #D2D2D2;
 }
 .blog-vector {
-	margin-top: -60px;
+	margin-top: -40px;
 }
 /*END BLOG*/
 
@@ -822,8 +822,7 @@ cursor: pointer;
     display: -ms-flexbox;
     display: flex;
 	justify-content: space-between;
-	margin-left: 135px;
-	margin-right: 135px;
+	margin-left: 50px;
 	margin-top: 160px;
 }
 .logo-footer {
@@ -872,10 +871,10 @@ margin-top: 20px;
 	color: #F087B1;
 }
 .footer-vector3 {
-margin-top: -330px;
+display: none;
 }
 .footer-vector2 {
-	margin-top: -700px;
+	display: none;
 }
 .social {
 	margin-top: -5px;
