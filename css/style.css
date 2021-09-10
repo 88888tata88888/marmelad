@@ -210,14 +210,14 @@ body {
 
 /*Teamwork*/
 .teamwork {
-	margin-top: 80px;
+	margin-top: 50px;
 }
 .teamwork-img {
 	display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
 	margin-right: 135px;
-	margin-left: 20px;
+	margin-left: 80px;
 	width: 150px;
 	height: 150px;
 	margin-top: 20px;
@@ -231,17 +231,20 @@ body {
 	font-weight: 500;
 	color: #F78CB6;
 	margin-top: 120px;
+	text-align: center;
 }
 .teamwork-h2 {
 	color: #56597A;
 	font-size: 24px;
 	font-weight: 700;
 	margin-top: -5px;
+	text-align: center;
 }
 .teamwork-text {
-	font-size: 8px;
+	font-size: 10px;
 	color: #919299;
 	margin-top: -10px;
+	text-align: center;
 }
 .teamwork-button {
 	background: #F78BB6;
@@ -251,6 +254,7 @@ body {
 	border: none;
 	margin-top: 15px;
 	cursor: pointer;
+	margin-left: 100px;
 }
 .teamwork-button:hover {
 	background: #e74c8a;
@@ -266,7 +270,7 @@ body {
 /*Testimonial*/
 .testimonial-img {
 	margin-top: 50px;
-	margin-left: 20px;
+	margin-left: 80px;
 	width: 150px;
 	height: 150px;
 }
@@ -279,30 +283,35 @@ body {
 	font-weight: 500;
 	color: #F78CB6;
 	margin-top: 50px;
+	text-align: center;
 }
 .testimonial-h2 {
 	color: #56597A;
 	font-size: 24px;
 	font-weight: 700;
 	margin-top: -5px;
+	text-align: center;
 }
 .testimonial-text {
-	font-size: 8px;
+	font-size: 10px;
 	color: #919299;
 	margin-top: -10px;
-	margin-right: 135px;
+
+	text-align: center;
 }
 .testimonial-h4 {
 	color: #56597A;
 	font-weight: 700;
 	font-size: 15px;
 	font-style: normal;
+	text-align: center;
 }
 .testimonial-text2 {
 	color: #ABABAB;
 	font-size: 16px;
 	font-weight: 500;
 	margin-top: -15px;
+	text-align: center;
 }
 /*End Testimonial*/
 /*GROUP*/
@@ -310,7 +319,7 @@ body {
 	display: none;
 }
 .group-img {
-	margin-right: 70px;
+	justify-content: center;
 	cursor: pointer;
 }
 .group-img:hover {
