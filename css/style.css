@@ -4,9 +4,8 @@ body {
     --accent-color: #2196f3;
     --secondary-color: #212121;
 	margin: 0px;
-	width: 1440px;
+	width: 100%;
 	font-family: var(--main-font-family);
-	overflow-x: hidden;
 }
 
 .link {
