@@ -270,7 +270,7 @@ body {
 /*Testimonial*/
 .testimonial-img {
 	margin-top: 50px;
-	margin-left: 80px;
+	margin-left: 100px;
 	width: 150px;
 	height: 150px;
 }
@@ -414,12 +414,16 @@ margin-top: 20px;
 	font-size: 8px;
 	margin-bottom: 37px;
 	position: relative;
+	text-align: center;
 }
 .blog-text3 {
 	color: #919299;
 	font-size: 15px;
 	font-weight: 700;
 	position: relative;
+}
+.blog-h2 {
+	text-align: center;
 }
 .blog-logo {
 	font-size: 30px;
